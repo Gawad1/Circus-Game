@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/View/ChooseMode.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/model/Bowl.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/model/ImageObject.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/Controller/Strategy/Hard.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/model/Clown.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/Controller/States.java</file>
+            <file>jar:file:/C:/Users/ADMIN/Documents/GitHub/game/engine_v3.jar!/eg/edu/alexu/csd/oop/game/GameObject.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/model/Bomb.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/Controller/Strategy/GameMode.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/Controller/GameController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/Controller/MainController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/model/ScoreMultiplier.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/Controller/Strategy/Mode.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/Controller/Factory.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/Controller/Strategy/Easy.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/model/AddTime.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/Controller/Strategy/Normal.java</file>
+            <file>jar:file:/C:/Users/ADMIN/Documents/GitHub/game/engine_v3.jar!/eg/edu/alexu/csd/oop/game/World.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/GitHub/game/src/model/Plates.java</file>
+        </group>
+    </open-files>
+</project-private>
