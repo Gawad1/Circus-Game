@@ -63,6 +63,4 @@ Contributions to the game project are welcome! Follow these steps to contribute:
 2. Implement new features or improvements.
 3. Submit a pull request for review and integration.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
